@@ -1,4 +1,4 @@
-# Hello, Fellow Coders! :earth_americas:
+# Hello! :earth_americas:
 
 I'm [Lawrence Judica Mbise], a dedicated and ambitious software developer hailing from [Dar es salaam, Tanzania].
 
@@ -9,7 +9,7 @@ import "fmt"
 
 func main() {
     fmt.Println("Welcome to my GitHub!")
-}
+}```
 :wrench: Tech Stack
 I specialize in:
 
