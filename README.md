@@ -2,14 +2,6 @@
 
 I'm [Lawrence Judica Mbise], a dedicated and ambitious software developer hailing from [Dar es salaam, Tanzania].
 
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Welcome to my GitHub!")
-}```
 :wrench: Tech Stack
 I specialize in:
 
