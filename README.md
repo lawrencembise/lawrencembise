@@ -31,7 +31,7 @@ Tools:
 I'm a strong advocate for clean architecture, always striving for code that is easy to read, maintain, and test.
 
 :rocket: Current Projects
-I'm currently working on several projects, including:
+I'm currently working on several projects,
 
 ****
 ******
