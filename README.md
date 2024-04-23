@@ -33,8 +33,6 @@ I'm a strong advocate for clean architecture, always striving for code that is e
 :rocket: Current Projects
 I'm currently working on several projects,
 
-****
-******
 
 :mailbox: Get in Touch
 
